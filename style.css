@@ -39,6 +39,7 @@ figure figcaption {
     height: 60px;
     width: 100%;
     background-color: lightblue;
+    opacity: 62%;
     display: flex;
     align-items: center;
 }
